@@ -205,7 +205,23 @@
                 }
             },
             "retired": "n"
+        },
+        "Anush Krishna": {
+            "name": "Anush Krishna V",
+            "bio": [],
+            "volunteer": {
+                "event": {},
+                "education": {}
+            },
+            "links": {
+                "twitter": "https://twitter.com/Anush_krishna_v"
+                "github":"https://github.com/anushkrishnav"
+                "website":"https://anushkrishna.rocks/"
+            },
+            "retired": "n",
+            "founder": "n"
         }
+        
     },
     "resources": {
         "ecommerce": {
